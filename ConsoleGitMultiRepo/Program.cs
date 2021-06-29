@@ -14,6 +14,7 @@ namespace ConsoleGitMultiRepo
             person.Name = "Jim";
 
             XElement x;
+            XElement yx;
             //test
 
 
